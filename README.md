@@ -1,0 +1,1 @@
+# Proyecto contable - Registro de ingresos y gastos
